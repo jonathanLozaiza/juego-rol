@@ -4,7 +4,7 @@ OPCION; ENTRADA; Entrar y comenzar la aventura;
 SITUACION; ENTRADA; Esta muy oscuro y no se ve nada. Te preguntas si existe alguna manera de hacer las cosas más fáciles...;
 OPCION; CAIDA; Seguir avanzando a tientas en la oscuridad;
 OPCION; MOCHILA; Buscar en tu mochila algo que pueda ser de utilidad;
-SITUACION; CAIDA; Sin darte cuenta no notas el suelo debajo de tus pies y empiezas a caer. Al fondo del foso hay muchas piedras afiladas...; -1000
+SITUACION; CAIDA; Sin darte cuenta no notas el suelo debajo de tus pies y empiezas a caer. Al fondo del foso hay muchas piedras afiladas...; -99
 SITUACION; MOCHILA; En la oscuridad empiezas a palpar dentro de tu mochila. Por suerte trajiste los materiales necesarios para crear y encender una antorcha;
 OPCION; LUZ; Encender la antorcha y continuar;
 SITUACION; LUZ; Al fin puedes ver algo en la oscuridad. La cueva tiene el techo bajo y es bastante húmeda. Tras avanzar un poco acabas llegando a una bifurcación;
